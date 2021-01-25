@@ -93,6 +93,8 @@
          "height":20,
          "id":11,
          "name":"tmpStuff",
+         "offsetx":2.5589555283558,
+         "offsety":2.5589555283558,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
