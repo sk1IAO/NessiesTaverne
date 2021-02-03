@@ -155,7 +155,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#start"
+                 "value":"map.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -173,7 +173,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#tmpCaveStart"
+                 "value":"map.json#tmpCaveStart"
                 }],
          "type":"tilelayer",
          "visible":true,
